@@ -1,0 +1,1 @@
+Olá, esse é um projeto de uma landing page, para meu portifólio, todas informações que estão inseridas nela, são elaboradas no imaginário desde programador, logo são apenas informações preenchidas para elaborar e incrementar o projeto, obrigado por ler e acompanhar meu repositório.
